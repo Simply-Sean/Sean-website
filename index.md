@@ -1,7 +1,6 @@
-<h1>HTML</h1>
-<strong>Cascading Style Sheets (CSS)</strong> is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[
+<h1>Sean's Profile</h1>
+<strong>Sean (CSS)</strong> can be contacted through his phone number <u>347-899-5961<u>.
 <ol>
   <li><a href="html.html">HTML</a></li>
   <li><a href="css.html">CSS</a></li>
   <li><a href="js.html">JavaScript</a></li>
-</ol
